@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\interfejsi\korisnik\bin\Debug\korisnik.exe.config
+D:\Vojin Sundovic IV3\interfejsi\korisnik\bin\Debug\korisnik.exe
+D:\Vojin Sundovic IV3\interfejsi\korisnik\bin\Debug\korisnik.pdb
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.Form1.resources
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.Properties.Resources.resources
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.exe
+D:\Vojin Sundovic IV3\interfejsi\korisnik\obj\Debug\korisnik.pdb

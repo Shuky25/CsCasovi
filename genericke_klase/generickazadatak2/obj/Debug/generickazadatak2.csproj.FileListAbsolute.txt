@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\bin\Debug\generickazadatak2.exe.config
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\bin\Debug\generickazadatak2.exe
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\bin\Debug\generickazadatak2.pdb
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.Form1.resources
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.Properties.Resources.resources
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.exe
+D:\Vojin Sundovic IV3\genericke_klase\generickazadatak2\obj\Debug\generickazadatak2.pdb

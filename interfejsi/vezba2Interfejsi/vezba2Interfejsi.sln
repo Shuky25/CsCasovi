@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vezba2Interfejsi", "vezba2Interfejsi.csproj", "{3C28F741-660E-40AD-AA3C-2B001B2CECAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C28F741-660E-40AD-AA3C-2B001B2CECAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C28F741-660E-40AD-AA3C-2B001B2CECAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C28F741-660E-40AD-AA3C-2B001B2CECAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C28F741-660E-40AD-AA3C-2B001B2CECAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82F467F-6D25-48C8-80AC-AD35BE98B5E5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\bin\Debug\generickistek.exe.config
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\bin\Debug\generickistek.exe
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\bin\Debug\generickistek.pdb
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.Form1.resources
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.Properties.Resources.resources
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.exe
+D:\Vojin Sundovic IV3\genericke_klase\generickistek\generickistek\obj\Debug\generickistek.pdb

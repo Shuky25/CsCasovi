@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\bin\Debug\Oblici.exe.config
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\bin\Debug\Oblici.exe
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\bin\Debug\Oblici.pdb
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.Form1.resources
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.Properties.Resources.resources
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.exe
+D:\Vojin Sundovic IV3\apstraktne_klase\Oblici\obj\Debug\Oblici.pdb

@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\bin\Debug\Interfejsi.exe.config
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\bin\Debug\Interfejsi.exe
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\bin\Debug\Interfejsi.pdb
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.Form1.resources
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.Properties.Resources.resources
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.exe
+D:\Vojin Sundovic IV3\apstraktne_klase\Interfejsi\obj\Debug\Interfejsi.pdb

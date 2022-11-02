@@ -1,0 +1,22 @@
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.exe.config
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.exe
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.pdb
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.AssemblyReference.cache
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.SuggestedBindingRedirects.cache
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.Form1.resources
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.Properties.Resources.resources
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.GenerateResource.cache
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.CoreCompileInputs.cache
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.exe
+D:\Shuky IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.pdb
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.exe.config
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.exe
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\bin\Debug\TackaKrugValjak.pdb
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.AssemblyReference.cache
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.SuggestedBindingRedirects.cache
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.Form1.resources
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.Properties.Resources.resources
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.GenerateResource.cache
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.csproj.CoreCompileInputs.cache
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.exe
+E:\Vojin Sundovic IV3\klase\TackaKrugValjak\TackaKrugValjak\obj\Debug\TackaKrugValjak.pdb

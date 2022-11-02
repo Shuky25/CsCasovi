@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\hestabele\hestabele\bin\Debug\hestabele.exe.config
+D:\Vojin Sundovic IV3\hestabele\hestabele\bin\Debug\hestabele.exe
+D:\Vojin Sundovic IV3\hestabele\hestabele\bin\Debug\hestabele.pdb
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.Form1.resources
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.Properties.Resources.resources
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.exe
+D:\Vojin Sundovic IV3\hestabele\hestabele\obj\Debug\hestabele.pdb

@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\bin\Debug\vezba1Interfejsi.exe.config
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\bin\Debug\vezba1Interfejsi.exe
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\bin\Debug\vezba1Interfejsi.pdb
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.Form1.resources
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.Properties.Resources.resources
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.exe
+D:\Vojin Sundovic IV3\interfejsi\vezba1Interfejsi\obj\Debug\vezba1Interfejsi.pdb
