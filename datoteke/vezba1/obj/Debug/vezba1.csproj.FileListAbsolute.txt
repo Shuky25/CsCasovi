@@ -1,0 +1,11 @@
+D:\Vojin Sundovic IV3\datoteke\vezba1\bin\Debug\vezba1.exe.config
+D:\Vojin Sundovic IV3\datoteke\vezba1\bin\Debug\vezba1.exe
+D:\Vojin Sundovic IV3\datoteke\vezba1\bin\Debug\vezba1.pdb
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.Form1.resources
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.Properties.Resources.resources
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.exe
+D:\Vojin Sundovic IV3\datoteke\vezba1\obj\Debug\vezba1.pdb
