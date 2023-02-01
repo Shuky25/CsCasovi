@@ -1,0 +1,12 @@
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.csproj.AssemblyReference.cache
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.csproj.SuggestedBindingRedirects.cache
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.Form1.resources
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.Properties.Resources.resources
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.csproj.GenerateResource.cache
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.csproj.CoreCompileInputs.cache
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\bin\Debug\zaposleniAzuriranje.exe.config
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\bin\Debug\zaposleniAzuriranje.exe
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\bin\Debug\zaposleniAzuriranje.pdb
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.exe
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.pdb
+D:\Vojin Sundovic IV3\zaposleniProsireno\zaposleniAzuriranje\obj\Debug\zaposleniAzuriranje.Form2.resources

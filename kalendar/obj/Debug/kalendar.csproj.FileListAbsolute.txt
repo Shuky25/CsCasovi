@@ -1,0 +1,11 @@
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\bin\Debug\kalendar.exe.config
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\bin\Debug\kalendar.exe
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\bin\Debug\kalendar.pdb
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.Form1.resources
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.csproj.GenerateResource.cache
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.exe
+C:\Users\Programiranje\Desktop\CsCasovi\kalendar\obj\Debug\kalendar.pdb

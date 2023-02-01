@@ -1,0 +1,11 @@
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\bin\Debug\datumivreme.exe.config
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\bin\Debug\datumivreme.exe
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\bin\Debug\datumivreme.pdb
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.Form1.resources
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.csproj.GenerateResource.cache
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.exe
+C:\Users\Programiranje\Desktop\CsCasovi\datumivreme\obj\Debug\datumivreme.pdb
